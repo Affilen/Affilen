@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @Affilen
 - /* I finished learning JavaScript on Udemy  (course by Jonas Schmedtmann) Im also doing some LeetCodes 
-- I'm also learning Python,React 
+- I also learned:
+   - JavaScript
+   - HTML,CSS
+   - React
+   - MySQL
+   - Python
+- Im learning:
+  - PHP
+  - C++   
 - I'm new to GitHub and overall programming community so I have no idea with what Im doing I will appreciate all tips or any kind of knowledge
   
 
