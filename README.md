@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @Affilen
-- /* I finished learning JavaScript on Udemy  (course by Jonas Schmedtmann) Im also doing some LeetCodes 
-- I also learned:
+- I am learning to be a Full-Stack developer. 
+- I'm new to GitHub and overall programming community so I have no idea with what Im doing I will appreciate all tips or any kind of knowledge
+- I learned:
    - JavaScript
    - HTML,CSS
    - React
    - MySQL
    - Python
-- Im learning:
+- I am learning:
   - PHP
   - C++   
-- I'm new to GitHub and overall programming community so I have no idea with what Im doing I will appreciate all tips or any kind of knowledge
   
 
 <!---
